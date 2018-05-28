@@ -52,6 +52,19 @@
   list-style: none;
   padding-left: 0;
 }
+.badge{
+  background-color: tan;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+.input-checkbox input{
+  width: auto!important;
+  
+  
+}
 footer{
   margin-top: 45px;
   padding-top: 5px;
